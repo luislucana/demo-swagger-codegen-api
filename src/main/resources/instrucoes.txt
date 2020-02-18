@@ -3,3 +3,5 @@ https://github.com/swagger-api/swagger-codegen/blob/master/modules/swagger-codeg
 ----------------------------------------------------------------------------------------------------------
 Em resumo, deve-se criar o pom.xml já com o plugin "swagger-codegen-maven-plugin" e executar o comando:
 mvn clean compile
+
+https://medium.com/@volmar.oliveira.jr/swagger-versioning-springboot-restapi-1f6ceb3d58c
