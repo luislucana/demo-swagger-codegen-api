@@ -1,5 +1,0 @@
-[swagger-codegen-maven-plugin] Seguir as instruções em:
-https://github.com/swagger-api/swagger-codegen/blob/master/modules/swagger-codegen-maven-plugin/README.md
-----------------------------------------------------------------------------------------------------------
-Em resumo, deve-se criar o pom.xml já com o plugin "swagger-codegen-maven-plugin" e executar o comando:
-mvn clean compile
